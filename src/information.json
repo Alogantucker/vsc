@@ -1,0 +1,121 @@
+[{
+        "name": [
+            "100bandjugg",
+            "hunnidbandjugg",
+            "hundredbandjugg",
+            "hundredbandjug",
+            "hunnidbandjug",
+            "100bandjug"
+        ],
+        "info": {
+            "dateRecorded": ["12/08/2019"],
+            "era": ["Death Race For Love (DRFL)", "drfl", "deathraceforlove"],
+            "status": {
+                "state": ["leaked"],
+                "dateleaked": ["12/09/2022"],
+                "released": []
+            }
+
+        },
+        "links": {
+            "songLink": ["https://onlyfiles.io/f/89c79f790217403b836e7193182b413","https://onlyfiles.io/f/0ac949f137c648dcacee50fdb8592702"
+
+
+            ],
+            "artLink": [
+                "https://media.discordapp.net/attachments/978161565691953184/997221941926699098/hh_100_Band_Jugg.png"
+            ],
+            "snipLink": [
+                "https://cdn.discordapp.com/attachments/978161565691953184/1009275558535905320/RPReplay_Final1653362413_1.mov"
+            ],
+            "sessionLink": ["link", "link2", "link3"],
+            "songFile": ["https://cdn.discordapp.com/attachments/1008460764098609283/1008465365761802260/100_Band_Jugg_feat._iLoveMakonnen.m4a"
+
+            ],
+            "artFile": [
+              "https://media.discordapp.net/attachments/978161565691953184/997221941926699098/hh_100_Band_Jugg.png"
+
+            ],
+            "snippetFile": [
+              "https://cdn.discordapp.com/attachments/978161565691953184/1009275554010239076/vlc-record-2022-05-23-19h44m53s.mp4",
+              "https://cdn.discordapp.com/attachments/978161565691953184/1009275557382467594/sgSo8oDysADeA2ua.mp4",
+              "https://cdn.discordapp.com/attachments/978161565691953184/1009275669060005969/AT-cm_djwXVaXNzmSp14Ly3tgQSQ.mp4"
+            ],
+            "sessionFile": ["link", "link2", "link3"]
+        }
+    },
+    {
+        "name": ["adoreyou", "adoreu", "darknight", "darkknight", "darknite"],
+        "info": {
+            "dateRecorded": ["12/08/2019"],
+            "era": ["DRFL"],
+            "status": {
+                "state": ["leaked"],
+                "dateleaked": ["12/09/2022"],
+                "released": ["released on 04/08/2022"]
+            }
+
+        },
+        "links": {
+            "songLink": ["https://onlyfiles.io/f/21cca42b629543d3a2e1e866131c202e"],
+            "artLink": ["https://cdn.discordapp.com/attachments/978161565691953184/1000617946462302328/Adore_Youq1hh.png",
+            "https://cdn.discordapp.com/attachments/978161565691953184/1000617946789462137/Adore_You_hh.png"
+
+            ],
+            "snipLink": [
+              "https://cdn.discordapp.com/attachments/1009545334826995813/1009556204835577886/Adore_You7.hh.mov",
+              "https://cdn.discordapp.com/attachments/1009545334826995813/1009556068088692746/Adore_You2.hh.mp4"
+            ],
+            "sessionLink": ["link1", "link2", "link3"],
+            "songFile": [
+
+            ],
+            "artFile": [
+
+              "https://cdn.discordapp.com/attachments/978161565691953184/1000617947062079538/Adore_You.hh.jpg",
+              "https://cdn.discordapp.com/attachments/978161565691953184/1000617947271811072/Adore_You_hh.JPG"
+            ],
+            "snippetFile": [
+              "https://cdn.discordapp.com/attachments/1009545334826995813/1009556064473202819/Adore_You6.hh.mov",
+              "https://cdn.discordapp.com/attachments/1009545334826995813/1009556065114923008/Adore_You.5.hh.mov",
+              "https://cdn.discordapp.com/attachments/1009545334826995813/1009556065668567141/Adore_You.4.hh.mov",
+              "https://cdn.discordapp.com/attachments/1009545334826995813/1009556072849219634/Adore_You1.hh.mp4",
+              "https://cdn.discordapp.com/attachments/1009545334826995813/1009556066427740281/Adore_You3.hh.mp4"
+
+            ],
+            "sessionFile": ["link", "link2", "link3"]
+        }
+    },
+    {
+        "name": ["test"],
+        "info": {
+            "dateRecorded": ["12/08/2019"],
+            "era": ["DRFL"],
+            "status": {
+                "state": ["leaked", "unreleased", "released"],
+                "dateleaked": ["12/09/2022"],
+                "released": ["released on 04/08/2022"]
+            }
+        },
+        "links" : {
+            "songLink": ["https://onlyfiles.io/f/21cca42b629543d3a2e1e866131c202e"],
+            "artLink": ["link1", "link2", "link3"],
+            "snipLink": ["https://cdn.discordapp.com/attachments/1009545334826995813/1012124028380663930/videoplayback_1.mp4"],
+            "sessionLink": ["https://cdn.discordapp.com/attachments/1009545334826995813/1012124028380663930/videoplayback_1.mp4", "link2", "link3"],
+            "songFile": [
+                "https://onlyfiles.io/f/0ac949f137c648dcacee50fdb8592702",
+                "https://onlyfiles.io/f/89c79f790217403b836e7193182b413"
+            ],
+            "artFile": [
+                "https://media.discordapp.net/attachments/978161565691953184/997221941926699098/hh_100_Band_Jugg.png"
+            ],
+            "snippetFile": [
+                "https://cdn.discordapp.com/attachments/978161565691953184/1009275554010239076/vlc-record-2022-05-23-19h44m53s.mp4",
+                "https://cdn.discordapp.com/attachments/978161565691953184/1009275557382467594/sgSo8oDysADeA2ua.mp4",
+                "https://cdn.discordapp.com/attachments/978161565691953184/1009275558535905320/RPReplay_Final1653362413_1.mov",
+                "https://cdn.discordapp.com/attachments/978161565691953184/1009275669060005969/AT-cm_djwXVaXNzmSp14Ly3tgQSQ.mp4"
+            ],
+            "sessionFile": ["link", "link2", "link3"]
+        }
+    }
+]
